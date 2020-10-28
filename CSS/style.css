@@ -1,0 +1,1016 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+*{
+	padding: 0px;
+	margin:0px;
+}
+body{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size:14px;
+	line-height: 24px;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+a,a:hover{
+	text-decoration: none;
+}
+
+                  /***** Muncak page css start***********/
+
+
+.header-section{
+	width: 100%;
+	background: url("../images/hbg.png")center top no-repeat;
+	background-size: cover;
+}
+.menu{
+	width: 100%;
+	padding-top: 50px;
+}
+.menu {
+	background: transparent !important;
+}
+.menu .link{
+  color: #9ca6aa;
+  margin: 0px 15px;
+  font-size: 14px;
+  font-weight: 700;
+  padding-bottom: 0px;
+}
+
+.menu .text-right ul li{
+	display: inline-block;
+}
+/*.menu .navbar-light .navbar-nav .active > .nav-link, .navbar-light 
+.navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show,
+ .navbar-light .navbar-nav .show > .nav-link {
+    color: #FFC178;
+  
+}*/
+/*.menu .navbar-light .navbar-nav .nav-link:hover{
+	 color: #FFC178;
+   /* border-bottom: 2px solid #FFC178;*/
+
+.menu .btn-info{
+	padding: 10px 35px;
+	font-size: 14px;
+	color: #2870DB;
+	background: #fff;
+	border: 0px;
+	border-radius: 30px;
+	transition: 1s ease-in-out;
+}
+.menu .btn-info:hover,
+.menu .btn-info:focus{
+	color:#fff ;
+	background:#2870DB;
+	border: 0px;
+}
+
+
+
+
+/*banner start*/
+
+
+
+.header-section .banner{
+width: 100%;
+padding: 20px 0px 170px;
+}
+
+.header-section .banner .banner-inner{
+width: 100%;
+padding: 90px 70px 150px;	
+}
+
+.header-section .banner .banner-inner h1{
+font-size: 42px;
+line-height: 52px;
+font-weight: 700;
+color: #1C2056;
+}
+.header-section .banner .banner-inner p{
+font-size: 14px;
+line-height: 28px;
+font-weight: 400;
+color: #9ca6aa;
+margin-top: 20px;
+margin-bottom: 100px;
+}
+.header-section .banner .banner-inner .btn-info{
+    padding: 10px 35px;
+    margin-top: 100px;
+	font-size: 14px;
+	color: #fff;
+	background:  #2870DB;
+	border: 0px;
+	border-radius: 50px;
+	transition: 1s ease-in-out;
+}
+.header-section .banner .banner-inner .btn-info:hover,.banner .banner-inner .btn-info:focus{
+    color:#2870DB;
+	background:#fff;
+	border: 0px;
+	text-decoration: none;
+	font-weight: 700;
+}
+
+
+
+
+.hiking{
+	width: 100%;
+	padding: 90px;
+	background: url("../images/bg2.png")center top no-repeat;
+	background-size: cover;
+}
+
+.hiking .title{
+	width: 100%;
+}
+
+.hiking .title h2{
+	font-size: 32px;
+	color: #000;
+	text-align: center;
+	font-weight: 700;
+	margin-bottom: 50px;
+}
+.hiking .card{
+	background: #fff;
+	box-shadow: 1px 4px 10px #ccc;
+	width: 18rem;
+}
+.hiking .card-body{
+	width: 100%;
+	padding: 32px;
+}
+.hiking .card .card-title{
+	color: #3E474C;
+	font-size: 18px;
+	font-weight: 600;
+}
+
+.hiking .card .card-text{
+	color: #ACB6BB;
+	font-size: 14px;
+	font-weight: 400;
+}
+
+.hiking .vector-card .v1{
+	text-align: center;
+	margin-left:98px;
+	padding-bottom: 45px; 
+}
+
+
+.hiking .vector-card .v2{
+
+    vertical-align: middle;
+    border-style: none;
+    margin-left: 90px;
+ margin-top: 67px;
+    padding: 0px;
+
+}
+.hiking .vector-card .v3{
+
+    vertical-align: middle;
+    border-style: none;
+    margin-left: 81px;
+    margin-top: 120px;
+    padding: 0px;
+
+}
+
+.hiking .btn-info{
+    padding: 10px 35px;
+    margin-top: 100px;
+    margin-left: 50px;
+
+	font-size: 14px;
+	color: #fff;
+	background:  #2870DB;
+	border: 0px;
+	border-radius: 50px;
+	transition: 1s ease-in-out;
+}
+.hiking .button{
+	padding-top: 100px;
+}
+.hiking .btn-info:hover,.hiking .btn-info:focus{
+    color:#2870DB;
+	background:#fff;
+	border: 0px;
+	text-decoration: none;
+	font-weight: 700;
+}
+
+
+
+.section-3{
+	width: 100%;
+	padding: 90px;
+	background: url("../images/bg3.png")center top no-repeat;
+	background-size: cover;
+}
+
+.section-3 .title{
+	width: 100%;
+}
+
+.section-3 .title h2{
+	font-size: 32px;
+	color: #000;
+	text-align: center;
+	font-weight: 700;
+	margin-bottom: 50px;
+}
+.section-3 .sm-1 p{
+	font-size: 14px;
+	font-weight: 500;
+	color: #8E9294;
+	text-align: center;
+}
+.section-3 .sm-1 h4{
+	font-weight: 700;
+	font-size: 32px;
+	color: #1A56A3;
+	text-align: center;
+}
+
+.section-4{
+	width: 100%;
+	margin-top: 60px;
+}
+.section-4 .title{
+	width: 100%;
+}
+
+.section-4 .title h2{
+	font-size: 32px;
+	color: #000;
+	text-align: center;
+	font-weight: 700;
+	margin-bottom: 80px;
+}
+
+.section-4 .image-box .card{
+	background: #fff;
+	box-shadow: 1px 4px 10px #ccc;
+		border-radius: 6px;
+		margin-left: 15px;
+		width: 18rem;
+}
+.section-4 .image-box .card-body{
+	width: 100%;
+	padding: 32px;
+
+}
+.section-4 .image-box .card .card-title{
+	color: #263238;
+	font-size: 18px;
+	font-weight: 600;
+}
+
+.section-4 .image-box .card .card-text{
+	color: #A4AFB5;
+	font-size: 14px;
+	font-weight: 400;
+}
+
+.section-4 .btn{
+	color: #1955A3;
+	padding-left: 0px;
+}
+
+
+.section-5{
+	width: 100%;
+	padding: 90px;
+	background: url("../images/bg5.png")center top no-repeat;
+	background-size: cover;
+}
+
+.section-5 .form-box{
+	width: 100%;
+	background: #3072C0;
+	border-radius: 5px;
+	padding: 80px 30px;
+}
+
+.section-5 .form-box .title{
+	width: 100%;
+}
+
+.section-5 .title h2{
+	font-size: 32px;
+	color: #fff;
+	text-align: center;
+	font-weight: 500;
+	margin-bottom: 80px;
+}
+.section-5 .form-box .form-group{
+	width: 40%;
+	padding-left: 40px;
+	margin-left: 250px;
+}
+.section-5 .form-box .form-control {
+    
+    border-radius: 1.25rem;
+}
+.section-5 .form-box .btn-primary {
+    padding: 12px 33px;
+    color: #fff;
+    background: #00AEFF;
+    border-radius: 25px;
+    margin-left: 400px;
+    margin-top: 50px;
+}
+.section-5 .footer{
+	width: 100%;
+	padding-left: 55px;
+	margin-top: 50px;
+}
+.section-5 .footer .footer-inner{
+	width: 100%;
+	margin-left: 25px;
+
+}
+
+.section-5 .footer h5{
+font-size: 16px;
+	color: #fff;
+	margin-top: 30px;
+	
+	font-weight: 500;
+	margin-bottom: 20px;
+}
+.section-5 .footer p{
+	font-size: 14px;
+	color: #fff;
+	
+	font-weight: 500;
+	margin-bottom: 20px;
+}
+
+.section-5 .footer .social{
+	width: 100%;
+}
+.section-5 .footer .social li{
+	display: inline-block;
+	background: #fff;
+	border-radius: 100%;
+	color: #2376CF;
+}
+.section-5 .footer .social li {
+    display: inline-block;
+    background: #fff;
+    border-radius: 100%;
+    color: #2376CF;
+    padding: 5px 10px;
+    margin-left: 5px;
+    margin-top: 35px;
+}
+
+
+
+
+
+/******************* media quaries start  ********************/
+
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+.menu .btn-info {
+    padding: 7px 26px;
+    font-size: 14px;
+    color: #2870DB;
+    background: #fff;
+    border: 0px;
+    border-radius: 30px;
+    transition: 1s ease-in-out;
+    margin-top: 10px;
+}
+
+.ml-auto, .mx-auto {
+    margin-left: auto !important;
+    margin-top: 15px;
+    list-style: none;
+}
+.header-section .banner .banner-inner h1 {
+    font-size: 26px;
+    line-height: 36px;
+    font-weight: 700;
+    color: #1C2056;
+}
+.header-section .banner .banner-inner .btn-info {
+    padding: 8px 28px;
+    margin-top: 70px;
+    font-size: 14px;
+    color: #fff;
+    background: #2870DB;
+    border: 0px;
+    border-radius: 50px;
+    transition: 1s ease-in-out;
+}
+
+.hiking .title h2 {
+    font-size: 17px;
+    color: #000;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+.hiking .card-body {
+    width: 100%;
+    padding: 16px;
+}
+.hiking .card{
+	background: #fff;
+	box-shadow: 1px 4px 10px #ccc;
+	width: 18rem;
+	margin-bottom: 50px;
+}
+
+.hiking .vector-card .v1 {
+    text-align: center;
+    margin-left: 42px;
+    padding-bottom: 40px;
+}
+
+.hiking .btn-info {
+	 padding: 16px 32px;
+	margin-top: 75px;
+	margin-left: 60px;
+	font-size: 14px;
+    color: #fff;
+    background: #2870DB;
+    border: 0px;
+    border-radius: 50px;
+    transition: 1s ease-in-out;
+}
+.header-section{
+	width: 100%;
+	background: url("../images/hbg.png")center top no-repeat;
+	background-size: cover;
+}
+
+.hiking {
+    width: 100%;
+    padding: 32px;
+    background: url("../images/bg2.png")center top no-repeat;
+        background-size: auto;
+    background-size: cover;
+}
+
+
+.hiking .vector-card .v3 {
+    vertical-align: middle;
+    border-style: none;
+    margin-left: 81px;
+    margin-top: 120px;
+    padding: 0px;
+}
+
+.hiking .vector-card .v3 {
+    vertical-align: middle;
+    border-style: none;
+    margin-left: 81px;
+    margin-top: 120px;
+    padding: 0px;
+    margin-bottom: 78px;
+}
+
+.section-3 .title h2 {
+    font-size: 22px;
+    color: #000;
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+.section-3 .sb1{
+	font-size: 14px;
+	font-weight: 500;
+	color: #8E9294;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.section-3 .sb2{
+	font-size: 14px;
+	font-weight: 500;
+	color: #8E9294;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.section-3 .sb3{
+	font-size: 14px;
+	font-weight: 500;
+	color: #8E9294;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+
+
+
+.section-4 .title h2 {
+    font-size: 30px;
+    color: #000;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 80px;
+}
+
+.section-4 .image-box .card{
+	background: #fff;
+	box-shadow: 1px 4px 10px #ccc;
+		border-radius: 6px;
+		margin-left: 15px;
+		margin-bottom: 50px;
+}
+.section-5{
+	width: 100%;
+	padding: 2px;
+	background: url("../images/bg5.png")center top no-repeat;
+	background-size: cover;
+}
+
+.section-5 .form-box{
+	width: 100%;
+	background: #3072C0;
+	border-radius: 5px;
+	padding: 60px 10px;
+}
+
+.section-5 .form-box .title{
+	width: 100%;
+}
+
+.section-5 .title h2 {
+    font-size: 22px;
+    color: #fff;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 60px;
+}
+.section-5 .form-box .form-group{
+	width: 88%;
+	padding-left: 14px;
+	margin-left: 6px;
+}
+.section-5 .form-box .form-control {
+    
+    border-radius: 1.25rem;
+}
+.section-5 .form-box .btn-primary {
+    padding: 11px 30px;
+    color: #fff;
+    background: #00AEFF;
+    border-radius: 25px;
+    margin-left: 66px;
+    margin-top: 50px;
+}
+.section-5 .footer{
+	width: 100%;
+	padding-left: 55px;
+	margin-top: 50px;
+}
+.section-5 .footer .footer-inner{
+	width: 100%;
+	margin-left: 25px;
+
+}
+
+.section-5 .footer h5{
+font-size: 16px;
+	color: #fff;
+	margin-top: 30px;
+	
+	font-weight: 500;
+	margin-bottom: 20px;
+}
+.section-5 .footer p{
+	font-size: 14px;
+	color: #fff;
+	
+	font-weight: 500;
+	margin-bottom: 20px;
+}
+  
+}
+
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+.menu .btn-info {
+    padding: 7px 26px;
+    font-size: 14px;
+    color: #2870DB;
+    background: #fff;
+    border: 0px;
+    border-radius: 30px;
+    transition: 1s ease-in-out;
+    margin-top: 10px;
+}
+
+.ml-auto, .mx-auto {
+    margin-left: auto !important;
+    margin-top: 15px;
+    list-style: none;
+}
+.header-section .banner .banner-inner h1 {
+    font-size: 26px;
+    line-height: 36px;
+    font-weight: 700;
+    color: #1C2056;
+}
+.header-section .banner .banner-inner .btn-info {
+    padding: 8px 28px;
+    margin-top: 70px;
+    font-size: 14px;
+    color: #fff;
+    background: #2870DB;
+    border: 0px;
+    border-radius: 50px;
+    transition: 1s ease-in-out;
+}
+
+.hiking .title h2 {
+    font-size: 17px;
+    color: #000;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+.hiking .card-body {
+    width: 100%;
+    padding: 16px;
+}
+.hiking .card{
+	background: #fff;
+	box-shadow: 1px 4px 10px #ccc;
+	width: 18rem;
+	margin-bottom: 50px;
+}
+
+.hiking .vector-card .v1 {
+    text-align: center;
+    margin-left: 42px;
+    padding-bottom: 40px;
+}
+
+.hiking .btn-info {
+	 padding: 16px 32px;
+	margin-top: 75px;
+	margin-left: 60px;
+	font-size: 14px;
+    color: #fff;
+    background: #2870DB;
+    border: 0px;
+    border-radius: 50px;
+    transition: 1s ease-in-out;
+}
+.header-section{
+	width: 100%;
+	background: url("../images/hbg.png")center top no-repeat;
+	background-size: cover;
+}
+
+.hiking {
+    width: 100%;
+    padding: 32px;
+    background: url("../images/bg2.png")center top no-repeat;
+        background-size: auto;
+    background-size: cover;
+}
+
+
+.hiking .vector-card .v3 {
+    vertical-align: middle;
+    border-style: none;
+    margin-left: 81px;
+    margin-top: 120px;
+    padding: 0px;
+}
+
+.hiking .vector-card .v3 {
+    vertical-align: middle;
+    border-style: none;
+    margin-left: 81px;
+    margin-top: 120px;
+    padding: 0px;
+    margin-bottom: 78px;
+}
+
+.section-3 .title h2 {
+    font-size: 22px;
+    color: #000;
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+.section-3 .sb1{
+	font-size: 14px;
+	font-weight: 500;
+	color: #8E9294;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.section-3 .sb2{
+	font-size: 14px;
+	font-weight: 500;
+	color: #8E9294;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.section-3 .sb3{
+	font-size: 14px;
+	font-weight: 500;
+	color: #8E9294;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+
+
+
+.section-4 .title h2 {
+    font-size: 30px;
+    color: #000;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 80px;
+}
+
+.section-4 .image-box .card{
+	background: #fff;
+	box-shadow: 1px 4px 10px #ccc;
+		border-radius: 6px;
+		margin-left: 15px;
+		margin-bottom: 50px;
+}
+.section-5{
+	width: 100%;
+	padding: 2px;
+	background: url("../images/bg5.png")center top no-repeat;
+	background-size: cover;
+}
+
+.section-5 .form-box{
+	width: 100%;
+	background: #3072C0;
+	border-radius: 5px;
+	padding: 60px 10px;
+}
+
+.section-5 .form-box .title{
+	width: 100%;
+}
+
+.section-5 .title h2 {
+    font-size: 22px;
+    color: #fff;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 60px;
+}
+.section-5 .form-box .form-group{
+	width: 88%;
+	padding-left: 14px;
+	margin-left: 6px;
+}
+.section-5 .form-box .form-control {
+    
+    border-radius: 1.25rem;
+}
+.section-5 .form-box .btn-primary {
+    padding: 11px 30px;
+    color: #fff;
+    background: #00AEFF;
+    border-radius: 25px;
+    margin-left: 66px;
+    margin-top: 50px;
+}
+.section-5 .footer{
+	width: 100%;
+	padding-left: 55px;
+	margin-top: 50px;
+}
+.section-5 .footer .footer-inner{
+	width: 100%;
+	margin-left: 25px;
+
+}
+
+.section-5 .footer h5{
+font-size: 16px;
+	color: #fff;
+	margin-top: 30px;
+	
+	font-weight: 500;
+	margin-bottom: 20px;
+}
+.section-5 .footer p{
+	font-size: 14px;
+	color: #fff;
+	
+	font-weight: 500;
+	margin-bottom: 20px;
+}
+  
+}
+
+
+
+
+
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+ .menu .btn-info {
+    padding: 6px 18px;
+    font-size: 14px;
+    color: #2870DB;
+    background: #fff;
+    border: 0px;
+    border-radius: 30px;
+    transition: 1s ease-in-out;
+}
+.header-section .banner .banner-inner h1 {
+    font-size: 36px;
+    line-height: 46px;
+    font-weight: 700;
+    color: #1C2056;
+}
+.header-section .banner .banner-inner .btn-info {
+    padding: 8px 30px;
+    margin-top: 100px;
+    font-size: 14px;
+    color: #fff;
+    background: #2870DB;
+    border: 0px;
+    border-radius: 50px;
+    transition: 1s ease-in-out;
+}
+
+
+.header-section .banner .banner-inner p {
+    font-size: 14px;
+    line-height: 28px;
+    font-weight: 400;
+    color: #9ca6aa;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.section-3 .title h2 {
+    font-size: 29px;
+    color: #000;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+.section-3 .sm-1 h4 {
+    font-weight: 600;
+    font-size: 30px;
+    color: #1A56A3;
+    text-align: center;
+}
+
+.section-3 .sm-1 p {
+    font-size: 12px;
+    font-weight: 500;
+    color: #8E9294;
+    text-align: center;
+}
+
+
+.section-4{
+	width: 100%;
+	margin-top: 60px;
+}
+.section-4 .title{
+	width: 100%;
+}
+
+.section-4 .title h2{
+	font-size: 32px;
+	color: #000;
+	text-align: center;
+	font-weight: 700;
+	margin-bottom: 80px;
+}
+
+.section-4 .image-box .card{
+	background: #fff;
+	box-shadow: 1px 2px 6px #ccc;
+		border-radius: 6px;
+		width: 200px;
+		height: 500px;
+	/*	margin-left: 15px;*/
+}
+.section-4 .image-box .card-body{
+	width: 100%;
+	padding: 15px;
+
+
+}
+.section-4 .image-box .card .card-title{
+	color: #263238;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.section-4 .image-box .card .card-text{
+	color: #A4AFB5;
+	font-size: 13px;
+	font-weight: 400;
+}
+
+.section-4 .btn{
+	color: #1955A3;
+	padding-left: 0px;
+}
+.section-5 .footer {
+    width: 100%;
+    padding-left: 6px;
+    margin-top: 50px;
+}
+
+.section-5{
+	width: 100%;
+	padding: 80px;
+	background: url("../images/bg5.png")center top no-repeat;
+	background-size: cover;
+}
+
+.section-5 .form-box{
+	width: 100%;
+	background: #3072C0;
+	border-radius: 5px;
+	padding: 80px 30px;
+}
+
+.section-5 .form-box .title{
+	width: 100%;
+}
+.section-5 .title h2 {
+    font-size: 22px;
+    color: #fff;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 76px;
+}
+.section-5 .form-box .form-group{
+	width: 85%;
+	padding-left: 15px;
+	margin-left: 35px;
+}
+.section-5 .form-box .form-control {
+    
+    border-radius: 1.25rem;
+}
+.section-5 .form-box .btn-primary {
+    padding: 12px 33px;
+    color: #fff;
+    background: #00AEFF;
+    border-radius: 25px;
+    margin-left: 160px;
+    margin-top: 50px;
+}
+
+  
+}
+
+
+
+
+
+
+
+
